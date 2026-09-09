@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "claude-council": {
+      "source": "TorpedoD/claude-council",
+      "sourceType": "github",
+      "skillPath": "skills/claude-council/SKILL.md",
+      "computedHash": "3c3ca8952bf8d520698b54bb78d9794219e94cf9d8f88a426aaa8a648cb8bfd7"
+    }
+  }
+}
